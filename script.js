@@ -13,3 +13,7 @@ function crearComentario() {
             <button onclick="this.parentElement.parentElement.remove()">🗑️ Eliminar</button>
         </p>
     `;
+
+    document.getElementById("container").appendChild(div);
+    document.getElementById('comentar').value = "";
+}
