@@ -13,3 +13,10 @@ body {
   padding: 2rem 1rem;
   font-family: sans-serif;
 }
+
+h1 {
+  font-size: 1.5rem;
+  font-weight: 500;
+  color: #333;
+  margin-bottom: 1.5rem;
+}
