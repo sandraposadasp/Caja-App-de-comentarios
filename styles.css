@@ -51,3 +51,12 @@ button {
 button:hover {
   background: #f592ae;
 }
+
+#container {
+  margin-top: 1.5rem;
+  width: 100%;
+  max-width: 480px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
