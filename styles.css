@@ -31,3 +31,23 @@ h1 {
   outline: none;
   width: 340px;
 }
+
+#comentar::placeholder {
+  color: #c4849a;
+}
+
+button {
+  background: #f7a8be;
+  border: none;
+  border-radius: 8px;
+  padding: 8px 16px;
+  font-size: 14px;
+  font-weight: 500;
+  color: #6b2d42;
+  cursor: pointer;
+  margin-left: 8px;
+}
+
+button:hover {
+  background: #f592ae;
+}
